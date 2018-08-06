@@ -1,0 +1,875 @@
+{
+   "status": "success",
+   "data": {
+     "bookList": [
+       {
+         "isbn": "9780191073809",
+         "type": "pdf",
+         "flags": {
+           "pages": true,
+           "annotations": true
+         },
+         "title": "Electron Paramagnetic Resonance",
+         "pathTo": {
+           "toc": "pdf/outline.html"
+         },
+         "CatalogId": "oupchemistrypdf",
+         "publisher": "OUP Oxford",
+         "contributors": [
+           "Victor Chechik",
+           "Emma Carter",
+           "Damien Murphy"
+         ],
+         "normalizedPublisher": "Oxford University Press"
+       },
+       {
+         "isbn": "9780198501008",
+         "flags": {
+           "pages": true
+         },
+         "title": "Top Drugs: Top Synthetic Routes",
+         "pathTo": {
+           "toc": "epub/html/toc.html",
+           "index": "epub/html/index.html"
+         },
+         "series": "Oxford Chemistry Primer",
+         "ordinal": 90,
+         "CatalogId": "oupchemistry",
+         "copyright": "Oxford University Press",
+         "publisher": "Oxford University Press",
+         "contributors": [
+           "John Saunders"
+         ],
+         "normalizedPublisher": "Oxford University Press"
+       },
+       {
+         "isbn": "9780198501039",
+         "flags": {
+           "pages": true
+         },
+         "title": "The Heavier d-Block Metals: Aspects of Inorganic and Coordination Chemistry",
+         "pathTo": {
+           "toc": "epub/html/toc.html",
+           "index": "epub/html/index.html"
+         },
+         "series": "Oxford Chemistry Primer",
+         "ordinal": 73,
+         "CatalogId": "oupchemistry",
+         "copyright": "Oxford University Press",
+         "publisher": "Oxford University Press",
+         "contributors": [
+           "Catherine E. Housecroft"
+         ],
+         "normalizedPublisher": "Oxford University Press"
+       },
+       {
+         "isbn": "9780198501046",
+         "flags": {
+           "pages": true
+         },
+         "title": "Alicyclic Chemistry",
+         "pathTo": {
+           "toc": "epub/html/toc.html",
+           "index": "epub/html/index.html"
+         },
+         "series": "Oxford Chemistry Primer",
+         "ordinal": 54,
+         "CatalogId": "oupchemistry",
+         "copyright": "Oxford University Press",
+         "publisher": "Oxford University Press",
+         "contributors": [
+           "Michael Hornby and Josephine Peach"
+         ],
+         "normalizedPublisher": "Oxford University Press"
+       },
+       {
+         "isbn": "9780198501510",
+         "flags": {
+           "pages": true
+         },
+         "title": "Chemistry of the First-row Transition Metals",
+         "pathTo": {
+           "toc": "epub/html/toc.html",
+           "index": "epub/html/index.html"
+         },
+         "series": "Oxford Chemistry Primer",
+         "ordinal": 71,
+         "CatalogId": "oupchemistry",
+         "copyright": "Oxford University Press",
+         "publisher": "Oxford University Press",
+         "contributors": [
+           "Jon McCleverty"
+         ],
+         "normalizedPublisher": "Oxford University Press"
+       },
+       {
+         "isbn": "9780198502272",
+         "flags": {
+           "pages": true
+         },
+         "title": "Quantum Mechanics 2: The Toolkit",
+         "pathTo": {
+           "toc": "epub/html/toc.html",
+           "index": "epub/html/index.html"
+         },
+         "series": "Oxford Chemistry Primer",
+         "ordinal": 65,
+         "CatalogId": "oupchemistry",
+         "copyright": "Oxford University Press",
+         "publisher": "Oxford University Press",
+         "contributors": [
+           "N. J. B. Green"
+         ],
+         "normalizedPublisher": "Oxford University Press"
+       },
+       {
+         "isbn": "9780198502593",
+         "flags": {
+           "pages": true
+         },
+         "title": "Non-aqueous Solvents",
+         "pathTo": {
+           "toc": "epub/html/toc.html",
+           "index": "epub/html/index.html"
+         },
+         "series": "Oxford Chemistry Primer",
+         "ordinal": 69,
+         "CatalogId": "oupchemistry",
+         "copyright": "Oxford University Press",
+         "publisher": "Oxford University Press",
+         "contributors": [
+           "John R. Chipperfield"
+         ],
+         "normalizedPublisher": "Oxford University Press"
+       },
+       {
+         "isbn": "9780198502753",
+         "flags": {
+           "pages": true
+         },
+         "title": "Protecting Group Chemistry",
+         "pathTo": {
+           "toc": "epub/html/toc.html",
+           "index": "epub/html/index.html"
+         },
+         "series": "Oxford Chemistry Primer",
+         "ordinal": 95,
+         "CatalogId": "oupchemistry",
+         "copyright": "Oxford University Press",
+         "publisher": "Oxford University Press",
+         "contributors": [
+           "Jeremy Robertson"
+         ],
+         "normalizedPublisher": "Oxford University Press"
+       },
+       {
+         "isbn": "9780198502838",
+         "flags": {
+           "pages": true
+         },
+         "title": "Aquatic Environmental Chemistry",
+         "pathTo": {
+           "toc": "epub/html/toc.html",
+           "index": "epub/html/index.html"
+         },
+         "series": "Oxford Chemistry Primer",
+         "ordinal": 57,
+         "CatalogId": "oupchemistry",
+         "copyright": "Oxford University Press",
+         "publisher": "Oxford University Press",
+         "contributors": [
+           "Alan G. Howard"
+         ],
+         "normalizedPublisher": "Oxford University Press"
+       },
+       {
+         "isbn": "9780198503071",
+         "flags": {
+           "pages": true
+         },
+         "title": "Pericyclic Reactions",
+         "pathTo": {
+           "toc": "epub/html/toc.html",
+           "index": "epub/html/index.html"
+         },
+         "series": "Oxford Chemistry Primer",
+         "ordinal": 67,
+         "CatalogId": "oupchemistry",
+         "copyright": "Oxford University Press",
+         "publisher": "Oxford University Press",
+         "contributors": [
+           "Ian Fleming"
+         ],
+         "normalizedPublisher": "Oxford University Press"
+       },
+       {
+         "isbn": "9780198503354",
+         "flags": {
+           "pages": true
+         },
+         "title": "Foundations of Spectroscopy",
+         "pathTo": {
+           "toc": "epub/html/toc.html",
+           "index": "epub/html/index.html"
+         },
+         "series": "Oxford Chemistry Primer",
+         "ordinal": 78,
+         "CatalogId": "oupchemistry",
+         "copyright": "Oxford University Press",
+         "publisher": "Oxford University Press",
+         "contributors": [
+           "Simon Duckett, Bruce Gilbert"
+         ],
+         "normalizedPublisher": "Oxford University Press"
+       },
+       {
+         "isbn": "9780198503606",
+         "flags": {
+           "pages": true
+         },
+         "title": "Foundations of Physics for Chemists",
+         "pathTo": {
+           "toc": "epub/html/toc.html",
+           "index": "epub/html/index.html"
+         },
+         "series": "Oxford Chemistry Primer",
+         "ordinal": 93,
+         "CatalogId": "oupchemistry",
+         "copyright": "Oxford University Press",
+         "publisher": "Oxford University Press",
+         "contributors": [
+           "G. A. D. Ritchie",
+           "D. S. Sivia"
+         ],
+         "normalizedPublisher": "Oxford University Press"
+       },
+       {
+         "isbn": "9780198503712",
+         "flags": {
+           "pages": true
+         },
+         "title": "Sonochemistry",
+         "pathTo": {
+           "toc": "epub/html/toc.html",
+           "index": "epub/html/index.html"
+         },
+         "series": "Oxford Chemistry Primer",
+         "ordinal": 70,
+         "CatalogId": "oupchemistry",
+         "copyright": "Oxford University Press",
+         "publisher": "Oxford University Press",
+         "contributors": [
+           "Timothy J. Mason"
+         ],
+         "normalizedPublisher": "Oxford University Press"
+       },
+       {
+         "isbn": "9780198503729",
+         "flags": {
+           "pages": true
+         },
+         "title": "Process Development: Physicochemical Concepts",
+         "pathTo": {
+           "toc": "epub/html/toc.html",
+           "index": "epub/html/index.html"
+         },
+         "series": "Oxford Chemistry Primer",
+         "ordinal": 79,
+         "CatalogId": "oupchemistry",
+         "copyright": "Oxford University Press",
+         "publisher": "Oxford University Press",
+         "contributors": [
+           "John H. Atherton and Keith J. Carpenter"
+         ],
+         "normalizedPublisher": "Oxford University Press"
+       },
+       {
+         "isbn": "9780198503897",
+         "flags": {
+           "pages": true
+         },
+         "title": "Polymers",
+         "pathTo": {
+           "toc": "epub/html/toc.html",
+           "index": "epub/html/index.html"
+         },
+         "series": "Oxford Chemistry Primer",
+         "ordinal": 85,
+         "CatalogId": "oupchemistry",
+         "copyright": "Oxford University Press",
+         "publisher": "Oxford University Press",
+         "contributors": [
+           "David J. Walton and J. Phillip Lorimer"
+         ],
+         "normalizedPublisher": "Oxford University Press"
+       },
+       {
+         "isbn": "9780198504153",
+         "flags": {
+           "pages": true
+         },
+         "title": "NMR: the toolkit",
+         "pathTo": {
+           "toc": "epub/html/toc.html",
+           "index": "epub/html/index.html"
+         },
+         "series": "Oxford Chemistry Primer",
+         "ordinal": 92,
+         "CatalogId": "oupchemistry",
+         "copyright": "Oxford University Press",
+         "publisher": "Oxford University Press",
+         "contributors": [
+           "P. J. Hore, J. A. Jones, S. Wimperis"
+         ],
+         "normalizedPublisher": "Oxford University Press"
+       },
+       {
+         "isbn": "9780198504283",
+         "flags": {
+           "pages": true
+         },
+         "title": "Foundations of Science Mathematics",
+         "pathTo": {
+           "toc": "epub/html/toc.html",
+           "index": "epub/html/index.html"
+         },
+         "series": "Oxford Chemistry Primer",
+         "ordinal": 77,
+         "CatalogId": "oupchemistry",
+         "copyright": "Oxford University Press",
+         "publisher": "Oxford University Press",
+         "contributors": [
+           "D. S. Sivia",
+           "S. G. Rawlings"
+         ],
+         "normalizedPublisher": "Oxford University Press"
+       },
+       {
+         "isbn": "9780198504290",
+         "flags": {
+           "pages": true
+         },
+         "title": "Foundations of Science Mathematics: Worked Problems",
+         "pathTo": {
+           "toc": "epub/html/toc.html",
+           "index": "epub/html/index.html"
+         },
+         "series": "Oxford Chemistry Primer",
+         "ordinal": 82,
+         "CatalogId": "oupchemistry",
+         "copyright": "Oxford University Press",
+         "publisher": "Oxford University Press",
+         "contributors": [
+           "D. S. Sivia and S. G. Rawlings"
+         ],
+         "normalizedPublisher": "Oxford University Press"
+       },
+       {
+         "isbn": "9780198504467",
+         "flags": {
+           "pages": true
+         },
+         "title": "Computers in Chemistry",
+         "pathTo": {
+           "toc": "epub/html/toc.html",
+           "index": "epub/html/index.html"
+         },
+         "series": "Oxford Chemistry Primer",
+         "ordinal": 84,
+         "CatalogId": "oupchemistry",
+         "copyright": "Oxford University Press",
+         "publisher": "Oxford University Press",
+         "contributors": [
+           "Pete Biggs"
+         ],
+         "normalizedPublisher": "Oxford University Press"
+       },
+       {
+         "isbn": "9780198504474",
+         "flags": {
+           "pages": true
+         },
+         "title": "Supramolecular Chemistry",
+         "pathTo": {
+           "toc": "epub/html/toc.html",
+           "index": "epub/html/index.html"
+         },
+         "series": "Oxford Chemistry Primer",
+         "ordinal": 74,
+         "CatalogId": "oupchemistry",
+         "copyright": "Oxford University Press",
+         "publisher": "Oxford University Press",
+         "contributors": [
+           "Paul D.Beer",
+           "Philip A.Gale",
+           "David K.Smith"
+         ],
+         "normalizedPublisher": "Oxford University Press"
+       },
+       {
+         "isbn": "9780198504627",
+         "flags": {
+           "pages": true
+         },
+         "title": "Foundations of Physical Chemistry: Worked Examples",
+         "pathTo": {
+           "toc": "epub/html/toc.html",
+           "index": "epub/html/index.html"
+         },
+         "series": "Oxford Chemistry Primer",
+         "ordinal": 68,
+         "CatalogId": "oupchemistry",
+         "copyright": "Oxford University Press",
+         "publisher": "Oxford University Press",
+         "contributors": [
+           "Nathan Lawrence, Jay Wadhawan and Richard Compton"
+         ],
+         "normalizedPublisher": "Oxford University Press"
+       },
+       {
+         "isbn": "9780198504672",
+         "flags": {
+           "pages": true
+         },
+         "title": "The f elements",
+         "pathTo": {
+           "toc": "epub/html/toc.html",
+           "index": "epub/html/index.html"
+         },
+         "series": "Oxford Chemistry Primer",
+         "ordinal": 76,
+         "CatalogId": "oupchemistry",
+         "copyright": "Oxford University Press",
+         "publisher": "Oxford University Press",
+         "contributors": [
+           "Nikolas Kaltsoyannis",
+           "Peter Scott"
+         ],
+         "normalizedPublisher": "Oxford University Press"
+       },
+       {
+         "isbn": "9780198504894",
+         "flags": {
+           "pages": true
+         },
+         "title": "From Molecules to Crystallizers",
+         "pathTo": {
+           "toc": "epub/html/toc.html",
+           "index": "epub/html/index.html"
+         },
+         "series": "Oxford Chemistry Primer",
+         "ordinal": 86,
+         "CatalogId": "oupchemistry",
+         "copyright": "Oxford University Press",
+         "publisher": "Oxford University Press",
+         "contributors": [
+           "Roger J. Davey &amp; John Garside"
+         ],
+         "normalizedPublisher": "Oxford University Press"
+       },
+       {
+         "isbn": "9780198505839",
+         "flags": {
+           "pages": true
+         },
+         "title": "Foundations of Organic Chemistry: Worked Examples",
+         "pathTo": {
+           "toc": "epub/html/toc.html",
+           "index": "epub/html/index.html"
+         },
+         "series": "Oxford Chemistry Primer",
+         "ordinal": 87,
+         "CatalogId": "oupchemistry",
+         "copyright": "Oxford University Press",
+         "publisher": "Oxford University Press",
+         "contributors": [
+           "Michael Hornby and Josephine Peach"
+         ],
+         "normalizedPublisher": "Oxford University Press"
+       },
+       {
+         "isbn": "9780198506171",
+         "flags": {
+           "pages": true
+         },
+         "title": "Aqueous Acid-Base Equilibria and Titrations",
+         "pathTo": {
+           "toc": "epub/html/toc.html",
+           "index": "epub/html/index.html"
+         },
+         "series": "Oxford Chemistry Primer",
+         "ordinal": 80,
+         "CatalogId": "oupchemistry",
+         "copyright": "Oxford University Press",
+         "publisher": "Oxford University Press",
+         "contributors": [
+           "Robert de Levie"
+         ],
+         "normalizedPublisher": "Oxford University Press"
+       },
+       {
+         "isbn": "9780198548164",
+         "flags": {
+           "pages": true
+         },
+         "title": "Electroanalysis",
+         "pathTo": {
+           "toc": "epub/html/toc.html",
+           "index": "epub/html/index.html"
+         },
+         "series": "Oxford Chemistry Primer",
+         "ordinal": 64,
+         "CatalogId": "oupchemistry",
+         "copyright": "Oxford University Press",
+         "publisher": "Oxford University Press",
+         "contributors": [
+           "Christopher M.A. Brett",
+           "Ana Maria Oliveira Brett"
+         ],
+         "normalizedPublisher": "Oxford University Press"
+       },
+       {
+         "isbn": "9780198556602",
+         "flags": {
+           "pages": true
+         },
+         "title": "Aromatic Heterocyclic Chemistry",
+         "pathTo": {
+           "toc": "epub/html/toc.html",
+           "index": "epub/html/index.html"
+         },
+         "series": "Oxford Chemistry Primer",
+         "ordinal": 2,
+         "CatalogId": "oupchemistry",
+         "copyright": "Oxford University Press",
+         "publisher": "Oxford University Press",
+         "contributors": [
+           "David T. Davies"
+         ],
+         "normalizedPublisher": "Oxford University Press"
+       },
+       {
+         "isbn": "9780198556626",
+         "flags": {
+           "pages": true
+         },
+         "title": "Organic Synthesis: The roles of boron and silicon",
+         "pathTo": {
+           "toc": "epub/html/toc.html",
+           "index": "epub/html/index.html"
+         },
+         "series": "Oxford Chemistry Primer",
+         "ordinal": 1,
+         "CatalogId": "oupchemistry",
+         "copyright": "Oxford University Press",
+         "publisher": "Oxford University Press",
+         "contributors": [
+           "Susan E. Thomas"
+         ],
+         "normalizedPublisher": "Oxford University Press"
+       },
+       {
+         "isbn": "9780198556640",
+         "flags": {
+           "pages": true
+         },
+         "title": "Oxidation and Reduction in Organic Synthesis",
+         "pathTo": {
+           "toc": "epub/html/toc.html",
+           "index": "epub/html/index.html"
+         },
+         "series": "Oxford Chemistry Primer",
+         "ordinal": 6,
+         "CatalogId": "oupchemistry",
+         "copyright": "Oxford University Press",
+         "publisher": "Oxford University Press",
+         "contributors": [
+           "Timothy J. Donohoe"
+         ],
+         "normalizedPublisher": "Oxford University Press"
+       },
+       {
+         "isbn": "9780198556664",
+         "flags": {
+           "pages": true
+         },
+         "title": "Organometallic Reagents in Synthesis",
+         "pathTo": {
+           "toc": "epub/html/toc.html",
+           "index": "epub/html/index.html"
+         },
+         "series": "Oxford Chemistry Primer",
+         "ordinal": 3,
+         "CatalogId": "oupchemistry",
+         "copyright": "Oxford University Press",
+         "publisher": "Oxford University Press",
+         "contributors": [
+           "Paul R. Jenkins"
+         ],
+         "normalizedPublisher": "Oxford University Press"
+       },
+       {
+         "isbn": "9780198556701",
+         "flags": {
+           "pages": true
+         },
+         "title": "Polar Rearrangements",
+         "pathTo": {
+           "toc": "epub/html/toc.html",
+           "index": "epub/html/index.html"
+         },
+         "series": "Oxford Chemistry Primer",
+         "ordinal": 5,
+         "CatalogId": "oupchemistry",
+         "copyright": "Oxford University Press",
+         "publisher": "Oxford University Press",
+         "contributors": [
+           "Laurence M.Harwood"
+         ],
+         "normalizedPublisher": "Oxford University Press"
+       },
+       {
+         "isbn": "9780198556725",
+         "flags": {
+           "pages": true
+         },
+         "title": "Reactive Intermediates",
+         "pathTo": {
+           "toc": "epub/html/toc.html",
+           "index": "epub/html/index.html"
+         },
+         "series": "Oxford Chemistry Primer",
+         "ordinal": 8,
+         "CatalogId": "oupchemistry",
+         "copyright": "Oxford University Press",
+         "publisher": "Oxford University Press",
+         "contributors": [
+           "Christopher J. Moody",
+           "Gordon H. Whitham"
+         ],
+         "normalizedPublisher": "Oxford University Press"
+       },
+       {
+         "isbn": "9780198556749",
+         "flags": {
+           "pages": true
+         },
+         "title": "Aromatic Chemistry",
+         "pathTo": {
+           "toc": "epub/html/toc.html",
+           "index": "epub/html/index.html"
+         },
+         "series": "Oxford Chemistry Primer",
+         "ordinal": 4,
+         "CatalogId": "oupchemistry",
+         "copyright": "Oxford University Press",
+         "publisher": "Oxford University Press",
+         "contributors": [
+           "Malcolm Sainsbury"
+         ],
+         "normalizedPublisher": "Oxford University Press"
+       },
+       {
+         "isbn": "9780198556763",
+         "flags": {
+           "pages": true
+         },
+         "title": "Chemical Aspects of Biosynthesis",
+         "pathTo": {
+           "toc": "epub/html/toc.html",
+           "index": "epub/html/index.html"
+         },
+         "series": "Oxford Chemistry Primer",
+         "ordinal": 20,
+         "CatalogId": "oupchemistry",
+         "copyright": "Oxford University Press",
+         "publisher": "Oxford University Press",
+         "contributors": [
+           "John Mann"
+         ],
+         "normalizedPublisher": "Oxford University Press"
+       },
+       {
+         "isbn": "9780198556800",
+         "flags": {
+           "pages": true
+         },
+         "title": "Foundations of Organic Chemistry",
+         "pathTo": {
+           "toc": "epub/html/toc.html",
+           "index": "epub/html/index.html"
+         },
+         "series": "Oxford Chemistry Primer",
+         "ordinal": 9,
+         "CatalogId": "oupchemistry",
+         "copyright": "Oxford University Press",
+         "publisher": "Oxford University Press",
+         "contributors": [
+           "Michael Hornby and Josephine Peach"
+         ],
+         "normalizedPublisher": "Oxford University Press"
+       },
+       {
+         "isbn": "9780198556824",
+         "flags": {
+           "pages": true
+         },
+         "title": "Nuclear Magnetic Resonance",
+         "pathTo": {
+           "toc": "epub/html/toc.html",
+           "index": "epub/html/index.html"
+         },
+         "series": "Oxford Chemistry Primer",
+         "ordinal": 32,
+         "CatalogId": "oupchemistry",
+         "copyright": "Oxford University Press",
+         "publisher": "Oxford University Press",
+         "contributors": [
+           "P. J. Hore"
+         ],
+         "normalizedPublisher": "Oxford University Press"
+       },
+       {
+         "isbn": "9780198556848",
+         "flags": {
+           "pages": true
+         },
+         "title": "Electrode Potentials",
+         "pathTo": {
+           "toc": "epub/html/toc.html",
+           "index": "epub/html/index.html"
+         },
+         "series": "Oxford Chemistry Primer",
+         "ordinal": 41,
+         "CatalogId": "oupchemistry",
+         "copyright": "Oxford University Press",
+         "publisher": "Oxford University Press",
+         "contributors": [
+           "Richard G. Compton, Giles H.W. Sanders"
+         ],
+         "normalizedPublisher": "Oxford University Press"
+       },
+       {
+         "date": null,
+         "isbn": "9780198556862",
+         "flags": {
+           "pages": true
+         },
+         "title": "Surfaces",
+         "pathTo": {
+           "toc": "epub/html/toc.html"
+         },
+         "series": "Oxford Chemistry Primer",
+         "ordinal": 59,
+         "noMinify": true,
+         "CatalogId": "oupchemistry",
+         "copyright": "Oxford University Press",
+         "publisher": "Oxford University Press",
+         "contributors": [
+           "Gary Attard"
+         ],
+         "normalizedPublisher": "Oxford University Press"
+       },
+       {
+         "isbn": "9780198556886",
+         "flags": {
+           "pages": true
+         },
+         "title": "Atomic Spectra",
+         "pathTo": {
+           "toc": "epub/html/toc.html",
+           "index": "epub/html/index.html"
+         },
+         "series": "Oxford Chemistry Primer",
+         "ordinal": 19,
+         "CatalogId": "oupchemistry",
+         "copyright": "Oxford University Press",
+         "publisher": "Oxford University Press",
+         "contributors": [
+           "T. P. Softley"
+         ],
+         "normalizedPublisher": "Oxford University Press"
+       },
+       {
+         "isbn": "9780198556909",
+         "flags": {
+           "pages": true
+         },
+         "title": "Electrode Dynamics ",
+         "pathTo": {
+           "toc": "epub/html/toc.html",
+           "index": "epub/html/index.html"
+         },
+         "series": "Oxford Chemistry Primer",
+         "ordinal": 34,
+         "CatalogId": "oupchemistry",
+         "copyright": "Oxford University Press",
+         "publisher": "Oxford University Press",
+         "contributors": [
+           "A.C. Fisher"
+         ],
+         "normalizedPublisher": "Oxford University Press"
+       },
+       {
+         "isbn": "9780198556923",
+         "flags": {
+           "pages": true
+         },
+         "title": "Coordination Chemistry of Macrocyclic Compounds",
+         "pathTo": {
+           "toc": "epub/html/toc.html",
+           "index": "epub/html/index.html"
+         },
+         "series": "Oxford Chemistry Primer",
+         "ordinal": 72,
+         "CatalogId": "oupchemistry",
+         "copyright": "Oxford University Press",
+         "publisher": "Oxford University Press",
+         "contributors": [
+           "Edwin C. Constable"
+         ],
+         "normalizedPublisher": "Oxford University Press"
+       },
+       {
+         "isbn": "9780198556947",
+         "flags": {
+           "pages": true
+         },
+         "title": "Chemical Bonding",
+         "pathTo": {
+           "toc": "epub/html/toc.html",
+           "index": "epub/html/index.html"
+         },
+         "series": "Oxford Chemistry Primer",
+         "ordinal": 15,
+         "CatalogId": "oupchemistry",
+         "copyright": "Oxford University Press",
+         "publisher": "Oxford University Press",
+         "contributors": [
+           "Michael Hornby and Josephine Peach"
+         ],
+         "normalizedPublisher": "Oxford University Press"
+       },
+       {
+         "isbn": "9780198556961",
+         "flags": {
+           "pages": true
+         },
+         "title": "d - Block Chemistry",
+         "pathTo": {
+           "toc": "epub/html/toc.html",
+           "index": "epub/html/index.html"
+         },
+         "series": "Oxford Chemistry Primer",
+         "ordinal": 27,
+         "CatalogId": "oupchemistry",
+         "copyright": "Oxford University Press",
+         "publisher": "Oxford University Press",
+         "contributors": [
+           "Mark J. Winter"
+         ],
+         "normalizedPublisher": "Oxford University Press"
+       }
+     ]
+   }
+ }
